@@ -1,0 +1,27 @@
+﻿<h2>SecurityDemo Home page</h2>
+<a href="https://www.youtube.com/watch?v=z2iCddrJRY8">Tutorial Source</a> <br />
+@if (User.Identity.IsAuthenticated)
+{
+    <div>
+        <p>Hello, @User.Identity.Name! [Authenticated]</p>
+        <p>
+            <a asp-action="Manage">Manage your account</a>
+        </p>
+
+        <form method="post" asp-action="logout">
+            <button type="submit">Log out</button>
+        </form>
+    </div>
+}
+else
+{
+    <div>
+        <p>Enter your name to Log in: [Not Authenticated]</p>
+
+        <form method="post" asp-action="Login">
+         <label for="name">Name</label>
+         <input type="text" id="name" name="name" />
+         <button type="submit">Log in</button>
+        </form>
+    </div>
+}

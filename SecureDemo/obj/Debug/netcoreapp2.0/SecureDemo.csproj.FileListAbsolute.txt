@@ -1,0 +1,11 @@
+C:\dev\ASP.NET\SecureDemo\SecureDemo\bin\Debug\netcoreapp2.0\SecureDemo.deps.json
+C:\dev\ASP.NET\SecureDemo\SecureDemo\bin\Debug\netcoreapp2.0\SecureDemo.runtimeconfig.json
+C:\dev\ASP.NET\SecureDemo\SecureDemo\bin\Debug\netcoreapp2.0\SecureDemo.runtimeconfig.dev.json
+C:\dev\ASP.NET\SecureDemo\SecureDemo\bin\Debug\netcoreapp2.0\SecureDemo.dll
+C:\dev\ASP.NET\SecureDemo\SecureDemo\bin\Debug\netcoreapp2.0\SecureDemo.pdb
+C:\dev\ASP.NET\SecureDemo\SecureDemo\obj\Debug\netcoreapp2.0\SecureDemo.csprojResolveAssemblyReference.cache
+C:\dev\ASP.NET\SecureDemo\SecureDemo\obj\Debug\netcoreapp2.0\SecureDemo.csproj.CoreCompileInputs.cache
+C:\dev\ASP.NET\SecureDemo\SecureDemo\obj\Debug\netcoreapp2.0\SecureDemo.AssemblyInfoInputs.cache
+C:\dev\ASP.NET\SecureDemo\SecureDemo\obj\Debug\netcoreapp2.0\SecureDemo.AssemblyInfo.cs
+C:\dev\ASP.NET\SecureDemo\SecureDemo\obj\Debug\netcoreapp2.0\SecureDemo.dll
+C:\dev\ASP.NET\SecureDemo\SecureDemo\obj\Debug\netcoreapp2.0\SecureDemo.pdb
